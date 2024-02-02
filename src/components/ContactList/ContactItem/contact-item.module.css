@@ -1,0 +1,15 @@
+.item {
+    white-space: nowrap;
+}
+
+.btn {
+    border: none;
+    background-color: rgb(222, 14, 14);
+    padding: 5px 10px;
+    color: white;
+    border-radius: 2px;
+    transition: all ease-in-out 300ms;
+    cursor: pointer;
+    text-transform: capitalize;
+    margin-left: 10px;
+}
